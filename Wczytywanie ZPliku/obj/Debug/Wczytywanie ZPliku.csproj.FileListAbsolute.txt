@@ -1,0 +1,18 @@
+c:\users\albert\documents\visual studio 2012\Projects\Wczytywanie ZPliku\Wczytywanie ZPliku\bin\Debug\Wczytywanie ZPliku.exe.config
+c:\users\albert\documents\visual studio 2012\Projects\Wczytywanie ZPliku\Wczytywanie ZPliku\bin\Debug\Wczytywanie ZPliku.exe
+c:\users\albert\documents\visual studio 2012\Projects\Wczytywanie ZPliku\Wczytywanie ZPliku\bin\Debug\Wczytywanie ZPliku.pdb
+c:\users\albert\documents\visual studio 2012\Projects\Wczytywanie ZPliku\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.csprojResolveAssemblyReference.cache
+c:\users\albert\documents\visual studio 2012\Projects\Wczytywanie ZPliku\Wczytywanie ZPliku\obj\Debug\Wczytywanie_ZPliku.Form1.resources
+c:\users\albert\documents\visual studio 2012\Projects\Wczytywanie ZPliku\Wczytywanie ZPliku\obj\Debug\Wczytywanie_ZPliku.Properties.Resources.resources
+c:\users\albert\documents\visual studio 2012\Projects\Wczytywanie ZPliku\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.csproj.GenerateResource.Cache
+c:\users\albert\documents\visual studio 2012\Projects\Wczytywanie ZPliku\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.exe
+c:\users\albert\documents\visual studio 2012\Projects\Wczytywanie ZPliku\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.pdb
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\ćw1\ćw 2\Wczytywanie ZPliku\Wczytywanie ZPliku\bin\Debug\Wczytywanie ZPliku.exe.config
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\ćw1\ćw 2\Wczytywanie ZPliku\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.exe
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\ćw1\ćw 2\Wczytywanie ZPliku\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.pdb
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\ćw1\ćw 2\Wczytywanie ZPliku\Wczytywanie ZPliku\bin\Debug\Wczytywanie ZPliku.exe
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\ćw1\ćw 2\Wczytywanie ZPliku\Wczytywanie ZPliku\bin\Debug\Wczytywanie ZPliku.pdb
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\ćw1\ćw 2\Wczytywanie ZPliku\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.csprojResolveAssemblyReference.cache
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\ćw1\ćw 2\Wczytywanie ZPliku\Wczytywanie ZPliku\obj\Debug\Wczytywanie_ZPliku.Form1.resources
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\ćw1\ćw 2\Wczytywanie ZPliku\Wczytywanie ZPliku\obj\Debug\Wczytywanie_ZPliku.Properties.Resources.resources
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\ćw1\ćw 2\Wczytywanie ZPliku\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.csproj.GenerateResource.Cache

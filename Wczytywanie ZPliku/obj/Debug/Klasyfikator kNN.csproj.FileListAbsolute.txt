@@ -1,0 +1,29 @@
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\ćw1\ćw 2\Wczytywanie ZPliku\Wczytywanie ZPliku\bin\Debug\Wczytywanie ZPliku.exe.config
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\ćw1\ćw 2\Wczytywanie ZPliku\Wczytywanie ZPliku\bin\Debug\Wczytywanie ZPliku.exe
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\ćw1\ćw 2\Wczytywanie ZPliku\Wczytywanie ZPliku\bin\Debug\Wczytywanie ZPliku.pdb
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\ćw1\ćw 2\Wczytywanie ZPliku\Wczytywanie ZPliku\obj\Debug\Wczytywanie_ZPliku.Form1.resources
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\ćw1\ćw 2\Wczytywanie ZPliku\Wczytywanie ZPliku\obj\Debug\Wczytywanie_ZPliku.Properties.Resources.resources
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\ćw1\ćw 2\Wczytywanie ZPliku\Wczytywanie ZPliku\obj\Debug\Klasyfikator kNN.csproj.GenerateResource.Cache
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\ćw1\ćw 2\Wczytywanie ZPliku\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.exe
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\ćw1\ćw 2\Wczytywanie ZPliku\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.pdb
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\ćw1\ćw 2\Klasyfikator kNN Krzysztof Biernacki\Wczytywanie ZPliku\bin\Debug\Wczytywanie ZPliku.exe.config
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\ćw1\ćw 2\Klasyfikator kNN Krzysztof Biernacki\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.exe
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\ćw1\ćw 2\Klasyfikator kNN Krzysztof Biernacki\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.pdb
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\ćw1\ćw 2\Klasyfikator kNN Krzysztof Biernacki\Wczytywanie ZPliku\bin\Debug\Wczytywanie ZPliku.exe
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\ćw1\ćw 2\Klasyfikator kNN Krzysztof Biernacki\Wczytywanie ZPliku\bin\Debug\Wczytywanie ZPliku.pdb
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\ćw1\ćw 2\Klasyfikator kNN Krzysztof Biernacki\Wczytywanie ZPliku\obj\Debug\Klasyfikator kNN.csprojResolveAssemblyReference.cache
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\ćw1\ćw 2\Klasyfikator kNN Krzysztof Biernacki\Wczytywanie ZPliku\obj\Debug\Wczytywanie_ZPliku.Form1.resources
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\ćw1\ćw 2\Klasyfikator kNN Krzysztof Biernacki\Wczytywanie ZPliku\obj\Debug\Wczytywanie_ZPliku.Properties.Resources.resources
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\ćw1\ćw 2\Klasyfikator kNN Krzysztof Biernacki\Wczytywanie ZPliku\obj\Debug\Klasyfikator kNN.csproj.GenerateResource.Cache
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\GOTOWE\Ćw2\Klasyfikator kNN Krzysztof Biernacki\Wczytywanie ZPliku\bin\Debug\Wczytywanie ZPliku.exe.config
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\GOTOWE\Ćw2\Klasyfikator kNN Krzysztof Biernacki\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.exe
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\GOTOWE\Ćw2\Klasyfikator kNN Krzysztof Biernacki\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.pdb
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\GOTOWE\Ćw2\Klasyfikator kNN Krzysztof Biernacki\Wczytywanie ZPliku\bin\Debug\Wczytywanie ZPliku.exe
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\GOTOWE\Ćw2\Klasyfikator kNN Krzysztof Biernacki\Wczytywanie ZPliku\bin\Debug\Wczytywanie ZPliku.pdb
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\GOTOWE\Ćw2\Klasyfikator kNN Krzysztof Biernacki\Wczytywanie ZPliku\obj\Debug\Klasyfikator kNN.csprojResolveAssemblyReference.cache
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\GOTOWE\Ćw2\Klasyfikator kNN Krzysztof Biernacki\Wczytywanie ZPliku\obj\Debug\Wczytywanie_ZPliku.Form1.resources
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\GOTOWE\Ćw2\Klasyfikator kNN Krzysztof Biernacki\Wczytywanie ZPliku\obj\Debug\Wczytywanie_ZPliku.Properties.Resources.resources
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\GOTOWE\Ćw2\Klasyfikator kNN Krzysztof Biernacki\Wczytywanie ZPliku\obj\Debug\Klasyfikator kNN.csproj.GenerateResource.Cache
+D:\Studia\3 ROK\6 semestr\sztuczna inteligencja\GOTOWE\Ćw2\Klasyfikator kNN Krzysztof Biernacki\Wczytywanie ZPliku\bin\Debug\Wczytywanie ZPliku.exe.config
+D:\Studia\3 ROK\6 semestr\sztuczna inteligencja\GOTOWE\Ćw2\Klasyfikator kNN Krzysztof Biernacki\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.exe
+D:\Studia\3 ROK\6 semestr\sztuczna inteligencja\GOTOWE\Ćw2\Klasyfikator kNN Krzysztof Biernacki\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.pdb
